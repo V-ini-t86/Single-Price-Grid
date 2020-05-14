@@ -1,0 +1,46 @@
+body {
+	text-align: left;
+	background-color: #E6EFF6;
+}
+
+.container { 
+	padding:5% 10%;
+}
+
+.community {
+	text-align: left;
+	background-color: #fff;
+}
+.Subscription {
+	background-color: #2BB3B1;
+	color: white;
+}
+.WhyUs {
+	background-color: #4ABEBD;
+	color: white;
+}
+.col-lgl-12 p {
+	color: #A9ABB7;
+}
+.myButton {
+	box-shadow: 0px 10px 14px -7px #9acc85;
+	background-color:#bfdf32;
+	border-radius:7px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:14px;
+	font-weight:bold;
+	padding:14px 76px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #92b879;
+}
+.myButton:hover {
+	background-color:#75db41;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
