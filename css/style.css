@@ -41,7 +41,7 @@ body {
 	color: white;
 	text-decoration: none;
 }
-.myButton:active {
+.myButton:active { 
 	position:relative;
 	top:1px;
 }
