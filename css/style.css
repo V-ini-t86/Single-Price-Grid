@@ -38,7 +38,7 @@ body {
 }
 .myButton:hover {
 	background-color:#75db41;
-	color: white;
+	color: #ffffff;
 	text-decoration: none;
 }
 .myButton:active { 
